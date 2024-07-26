@@ -1,0 +1,6 @@
+numpy~=2.0.0
+matplotlib~=3.9.1
+opencv-python~=4.10.0.84
+mediapipe~=0.10.14
+setuptools~=68.2.0
+depthai~=2.27.0.0
